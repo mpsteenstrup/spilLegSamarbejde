@@ -50,6 +50,11 @@ I logbogen skal I
 
 (*) [http://fiibl.dk/born-og-unge-bevaeger-sig-for-lidt-trods-gode-rammer/](http://fiibl.dk/born-og-unge-bevaeger-sig-for-lidt-trods-gode-rammer/)
 
+## Faglige mål
+### Programmering
+Eleverne skal kunne
+̶  identificere basale strukturer i programmeringssprog, modellere programmer og anvende programmering til udvikling af simple it-systemer. 
+
 
 ## Logbog
 Oprettelse af logbog beskrives her, [InformatikRysensteen](https://github.com/mpsteenstrup/InformatikRysensteen)
