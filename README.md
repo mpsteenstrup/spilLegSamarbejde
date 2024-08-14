@@ -48,6 +48,7 @@ I logbogen skal I
 * Lav et rutediagram over spillet, beskrecet her [rutediagram](https://github.com/mpsteenstrup/InformatikRysensteen/blob/main/dokumenter/flowchart.md).
 
 
+
 (*) [http://fiibl.dk/born-og-unge-bevaeger-sig-for-lidt-trods-gode-rammer/](http://fiibl.dk/born-og-unge-bevaeger-sig-for-lidt-trods-gode-rammer/)
 
 ## Faglige mål
