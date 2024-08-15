@@ -7,7 +7,7 @@ Resetter hvis mous klicket hvor baggrunden overtegner det hele.
 let img;
 
 function preload() {
-	img = createImg('http://mpsteenstrup.dk/FN_maal/FN1.jpg');
+	img = createImg('https://github.com/mpsteenstrup/spilLegSamarbejde/blob/main/FN_maal/FN5.jpg?raw=true','');
 	img.hide();
 }
 

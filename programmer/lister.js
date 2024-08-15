@@ -3,7 +3,7 @@ let list = [];
 
 function preload() {
 	for (i=1;i<18;i++){
-		img = createImg('http://mpsteenstrup.dk/FN_maal/FN'+ i +'.jpg');
+		img = createImg('https://github.com/mpsteenstrup/spilLegSamarbejde/blob/main/FN_maal/FN'+ i +'.jpg?raw=true','');
 		img.hide();
 	  list.push(img);
 	}

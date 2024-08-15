@@ -1,22 +1,30 @@
 /*
 Billeder loades med url addressen. Det sker i funktionen "preload" som kører først, da det kan tage noget tid at loade.
-FN billeder er samlet i "http://mpsteenstrup.dk/FN_maal/FN1.jpg", FN2, FN3 osv.
+
 Billedet bliver vist med image(img,0,0) i venstre hjørne.
 */
 
 let img;
 
-function preload(){
-  img = createImg('http://mpsteenstrup.dk/FN_maal/FN1.jpg','');
-	img.hide();
+
+function preload() {
+
+		img = createImg('https://github.com/mpsteenstrup/spilLegSamarbejde/blob/main/FN_maal/FN1.jpg?raw=true','');
+		img.hide();
+}
+
+function setup() {
+	createCanvas(windowWidth, windowHeight);
+  background(91, 146, 229);
 }
 
 
-function setup(){
-  createCanvas(windowWidth, windowHeight);
-  image(img,0,0);
+function draw() {
+    w = random(0,windowWidth);
+    h = random(0,windowHeight);
+		image(img,w,h,40,40);
 }
 
-function draw(){
-noLoop
+function mousePressed(){
+	background(0,200,200);
 }

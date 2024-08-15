@@ -8,6 +8,6 @@ function setup() {
 
 function draw() {
   for (i in y){
-    ellipse(40 + i * 80, y[i], 40);
+    ellipse(40, y[i], 40);
   }
 }
