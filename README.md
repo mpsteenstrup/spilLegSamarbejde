@@ -271,7 +271,7 @@ P5 har et godt bibliotek med [referencer](https://p5js.org/reference/), først k
 
 
 ### Billedeksempel
-I filen [listeBilleder.js](JSfiler/listeBilleder.js) bruges listen til at holde styr på en masse billeder.
+I filen [lister.js](programmer/lister.js) bruges listen til at holde styr på en masse billeder.
 * Kør programmet og se hvad der sker.
 * Undersøg hvordan billederne kommer ind i listen.
 * Undersøg hvordan de bliver vist på skærmen.
