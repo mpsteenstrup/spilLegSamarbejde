@@ -4,7 +4,7 @@ Billeder loades med url addressen. Det sker i funktionen "preload" som kører f�
 Billedet bliver vist med image(img,0,0) i venstre hjørne.
 */
 
-let img;
+var img;
 
 
 function preload() {

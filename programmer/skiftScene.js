@@ -3,9 +3,9 @@ Variablen scene holder styr på hvilken scene vi er i. Den bliver opdateret for 
 */
 
 
-let img;
-let list = [];
-let scene = 0;
+var img;
+var list = [];
+var scene = 0;
 
 function preload() {
 	for (i=1;i<18;i++){

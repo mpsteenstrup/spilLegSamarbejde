@@ -1,7 +1,7 @@
 /*
 Næsten samme program som "random.js" men her er to billeder og det tilfældige er vinklen og radius i en cirkel.
 */
-let img;
+var img;
 
 function preload() {
 	img = createImg('https://github.com/mpsteenstrup/spilLegSamarbejde/blob/main/FN_maal/FN7.jpg?raw=true','');

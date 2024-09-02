@@ -1,4 +1,4 @@
-let y = [50, 170, 120, 355, 175];
+var y = [50, 170, 120, 355, 175];
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);
