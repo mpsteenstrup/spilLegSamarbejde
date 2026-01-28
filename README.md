@@ -3,7 +3,9 @@ Forløb med spil og samarbejde.
 
 [Vis som webside.](https://mpsteenstrup.github.io/spilLegSamarbejde/index.html)
 
-[Vis som github side.](https://github.com/mpsteenstrup/spilLegOgSamarbejde)
+[Vis som github side.](https://github.com/mpsteenstrup/spilLegSamarbejde)
+
+
 
 ## Indholdsfortegnelse
 * [Introduktionsslides](#slides)
