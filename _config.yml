@@ -1,0 +1,14 @@
+remote_theme: just-the-docs/just-the-docs
+
+# Sidens titel (vises i sidebaren)
+title: Spil leg og samarbejde
+# Beskrivelse til Google
+description: Undervisningsmateriale til informatik-C, #programmering, #makeymakey, #spil.
+
+# Aktiver søgefunktion
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+# Navigationsindstillinger
+aux_links:
+  "Se på GitHub": https://github.com/mpsteenstrup/spilLegSamarbejde

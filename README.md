@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kodning og Leg
+nav_order: 1
+---
+
 # spil, leg og samarbejde
 Forløb med spil og samarbejde. 
 
